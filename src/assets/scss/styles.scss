@@ -1,3 +1,6 @@
 @import './base';
 
-@import './modules/homepage.scss'
+@import './modules/pages-styles/homepage.scss';
+
+@import './modules/component-styles/directory-menu.scss';
+@import './modules/component-styles/menu-item.scss'
