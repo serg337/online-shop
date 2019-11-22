@@ -1,6 +1,9 @@
 @import './base';
 
-@import './modules/pages-styles/homepage.scss';
+@import './modules/pages-styles/home-page.scss';
+@import './modules/pages-styles/shop-page.scss';
 
 @import './modules/component-styles/directory-menu.scss';
-@import './modules/component-styles/menu-item.scss'
+@import './modules/component-styles/menu-item.scss';
+@import './modules/component-styles/_collection-preview.scss';
+@import './modules/component-styles/collection-item.scss';
